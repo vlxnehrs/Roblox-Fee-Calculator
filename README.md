@@ -1,5 +1,5 @@
 # Roblox-Fee-Calculator
-It Calculates Roblox Fees, Made By $$ Easy#3574
+It Calculates Roblox Fees, Made By !! qrs v2#7310
 
 # How to use?
 Must launch the start file and enter the amount of robux.
